@@ -1,0 +1,22 @@
+@import url("zeroStyle.css");
+
+
+body {
+  background: #90EE90;
+  font-family: Calibri, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+}
+
+.fild {
+  width: 200px;
+  border: 2px solid rgb(0, 0, 0);
+  display: inline-block;
+}
+
+.video {
+  outline: 10px solid #006400;
+  display: inline-block;
+  height: 480px;
+  margin: 110px auto;
+  background-color: rgb(0, 0, 0);
+}
